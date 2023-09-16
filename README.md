@@ -8,11 +8,11 @@ Feel free to connect with me for discussions on data engineering, analytics, or 
 
 ## Technical Proficiency:
 
-**Languages & Frameworks:** Python, SQL, R, Spark, Scala, Hadoop, Pandas, Scikit-learn, Scipy, NLTK.
-**Tools & Databases:** MS Office 365(Excel, word, Power Point), Oracle, Redshift, Postgres, MDM, Power BI, Tableau, JIRA, Confluence.
-**Cloud Technologies/Others:** AWS (EC2, Lambda, S3, Glue, EMR), GCP, UNIX/Linux.
-**Technical Skills:** Regression Analysis, hypothesis testing, factorization, decision tree, SVM, PCA.
-**Visualization Tools:** Power BI, Tableau.
+- **Languages & Frameworks:** Python, SQL, R, Spark, Scala, Hadoop, Pandas, Scikit-learn, Scipy, NLTK.
+- **Tools & Databases:** MS Office 365(Excel, word, Power Point), Oracle, Redshift, Postgres, MDM, Power BI, Tableau, JIRA, Confluence.
+- **Cloud Technologies/Others:** AWS (EC2, Lambda, S3, Glue, EMR), GCP, UNIX/Linux.
+- **Technical Skills:** Regression Analysis, hypothesis testing, factorization, decision tree, SVM, PCA.
+- **Visualization Tools:** Power BI, Tableau.
 
 ## Contact details:
 
