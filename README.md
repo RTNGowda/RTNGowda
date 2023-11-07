@@ -14,6 +14,13 @@ Feel free to connect with me for discussions on data engineering, analytics, or 
 - **Technical Skills:** Regression Analysis, hypothesis testing, factorization, decision tree, SVM, PCA.
 - **Visualization Tools:** Power BI, Tableau.
 
+## CERTIFICATIONS:
+-	**Amazon Web Services: Certified Cloud Practitioner (CLF-C02), Certified Solution Architect Associate (SAA-C03).
+- **DataCamp: Big Data with PySpark, R-programming(Level - Intermediate)
+- **Hacker Rank: SQL (Advanced), Python – Gold Badge.
+- **Udemy: Microsoft Power B.I Desktop for Business Intelligence.
+
+
 ## Contact details:
 
 - Email: iamrakshithgowda1997@gmail.com
